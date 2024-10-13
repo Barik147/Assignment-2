@@ -1,2 +1,7 @@
 # Assignment-2
-Project manaement
+##Project manaement
+### git hub
+```
+colaboration,pull request,issues,milestone
+```
+
